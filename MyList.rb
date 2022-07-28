@@ -1,3 +1,4 @@
+require 'MyEnumerable'
 class MyList
     @list = []
     def intialize(list)
